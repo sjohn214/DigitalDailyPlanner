@@ -5,8 +5,8 @@
 
 # Demo Features
 * The following image and gif shows the web application's appearance and functionality.
-![Planner Screenshot]()  
-![Planner gif]()
+![Planner Screenshot](assets/screenshot.png)  
+![Planner gif](assets/05-third-party-apis-homework-demo.gif)
 
 # Live URL:
 <a href="https://github.com/sjohn214/DigitalDailyPlanner/deployments/activity_log?environment=github-pages">Digital Daily Planner Live</a>
@@ -24,9 +24,7 @@
 * Input Entries
 * Save button that saves items to local storage
 * Attribute changes for hour by hour time tracking
-* Gray is past the current hour
-* Red is on the current hour
-* Green is before the pending hour
+* Gray is past the current hour; Red is on the current hour; Green is before the pending hour
 * Script features: Moment.js for local time, current time, and time conversion for individual hours
 * Appended text to HTML for hour time
 * If/else statement to compare time with the current time
